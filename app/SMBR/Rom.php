@@ -23,7 +23,7 @@ class Rom
     const SIZE = 40976;
     private $known_good_hashes = ["811b027eaf99c2def7b933c5208636de", "673913a23cd612daf5ad32d4085e0760"];
     private $hash_to_filename = [
-        "811b027eaf99c2def7b933c5208636de" => "uploaded_roms/Super Mario Bros. (JU) [!].nes",
+        "811b027eaf99c2def7b933c5208636de" => "uploaded_roms/Mushroom Nightmare Final 2 (patched).0 (SMB1 Hack).nes",
         "673913a23cd612daf5ad32d4085e0760" => "uploaded_roms/Super Mario Bros. (E).nes",
     ];
     const ROMSIZE = 40976;
